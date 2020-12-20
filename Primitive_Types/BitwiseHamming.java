@@ -1,4 +1,6 @@
-//Find the Number of One Bits: https://www.datafloww.online/numberofonebits 
+//Find the Number of One Bits: 
+//DataFlow Article: https://www.datafloww.online/numberofonebits 
+
 public class BitwiseHamming {
     int counter = 0;
     int n;
